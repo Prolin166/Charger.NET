@@ -6,8 +6,10 @@ Normally I built it for 3 motocycle batteries.
 
 The charger has 3 modes: 
 Charging - Charge the batteries with 14.1V
-Observation - Measure voltage of the connected batteries and bring them to homeassistant and also integrated Display
-Conservation - Measure voltage of the connected batteries and bring them to homeassistant and also integrated Display, compare each voltage with a setpoint and charge with 14.1V if it's necessary
+Observation - Measure voltage of the connected batteries 
+  	and bring them to homeassistant and also integrated Display
+Conservation - Measure voltage of the connected batteries and bring them to homeassistant 
+    and also integrated Display, compare each voltage with a setpoint and charge with 14.1V if it's necessary
 
 Use case:
 Hold all batteries on healthy voltage level (during winter for motocycle use case).
